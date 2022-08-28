@@ -38,4 +38,4 @@ Also redux-toolkit uses library called Immer, it allows to write "mutating" redu
 
 They're not actially mutating state, rather Immer tracks all the changes you've tried to make, and then uses that list of changes to return a safely immutably updated value.
 
-#redux #reduxtoolkit #ts
+#redux #rtk #ts
